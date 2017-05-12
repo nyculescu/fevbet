@@ -1,0 +1,15 @@
+{
+    "name": "fevbet",
+    "version": "0.0.1",
+    "description": "Cautam aur pe net",
+    "main": "server.js",
+    "author": "Catalinescu Niculae",
+    "license": "MIT",
+    "dependencies": {
+        "cheerio": "latest",
+        "request": "latest",
+        "winston": "latest",
+        "mongodb": "latest",
+        "http": "latest"
+    }
+}
